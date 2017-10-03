@@ -11,7 +11,10 @@ namespace ProjekatZaGit
         static void Main(string[] args)
         {
             Console.WriteLine("Dobar dan");
+
             Console.WriteLine("D D");
+            Console.WriteLine("Sinisa was here");
+
         }
     }
 }
